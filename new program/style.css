@@ -1,0 +1,58 @@
+body{
+    background: url("background image.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.main{
+    background-color:rgba(131, 235, 131, 0.74);
+    border-color: rgb(104, 207, 139);
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 10px;
+    box-sizing: border-box;
+    
+}
+.input:focus{
+    background-color:gainsboro;
+}
+.header{
+    text-align: center;
+    color: black;
+}
+.input input{
+    width:350px;
+    border-radius: 5px;
+    margin: 5px 5px 5px 5px;
+    padding: 10px;
+}
+.color{
+    text-align: center;
+}
+.color h2{
+    border-color:whitesmoke;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: rgb(252, 5, 5);
+    padding:10px ;
+}
+.mit h2{
+    border-color:whitesmoke;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color:grey;
+    padding:10px ;
+    padding-right: 8px;
+    text-align: center;
+}
+.center{
+    text-align: center;
+    padding: 5px;
+
+    color: rgba(0, 0, 0, 0.842);
+}
